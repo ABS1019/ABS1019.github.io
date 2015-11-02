@@ -1,14 +1,55 @@
-.navbar-style {
-	font-size: 12px;
-	background-color: #000000;
+/********************************
+	 CSS for navbar (Header)
+*********************************/
+.nav.navbar-nav li a {
+	color: rgb(130, 130, 130);
+}
+.nav.navbar-nav li a:hover {
 	color: #FFFFFF;
 }
 
+.navbar-style {
+	width: 100%;
+	background: #000000;
+	margin: 0;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+.dropdown-menu a {
+	background: #000000;
+	color: rgb(130, 130, 130) !important;
+}
+
+.dropdown-menu a:hover {
+	color: #000000 !important;
+}
+
 .logo {
-	display: inline-block;
-	max-width: 60px;
-	height: auto;
+	max-width: 65px;
 	margin-left: 10px;
 	margin-right: 10px;
 	margin-top: -5px;
 }
+
+
+/********************************
+   CSS for Latest News/Home page
+*********************************/
+
+/***		Carousel         ***/
+
+.carousel .item img {
+	margin: 0 auto;
+}
+
+.carousel-text {
+	font-size: large;
+	font-weight: bold;
+	color: rgb(120, 120, 120);
+}
+
+/********************************
+		CSS for 
+*********************************/
