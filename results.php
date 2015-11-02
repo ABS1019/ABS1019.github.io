@@ -1,4 +1,4 @@
-<?php include 'site/header.html';?>
+<?php $page="results"; include 'site/header.html';?>
 
 
 
