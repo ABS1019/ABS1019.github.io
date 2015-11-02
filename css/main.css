@@ -1,3 +1,14 @@
-.navbar-font, .navbar-center {
+.navbar-style {
 	font-size: 12px;
+	background-color: #000000;
+	color: #FFFFFF;
+}
+
+.logo {
+	display: inline-block;
+	max-width: 60px;
+	height: auto;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: -5px;
 }
