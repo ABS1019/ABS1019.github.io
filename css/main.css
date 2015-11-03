@@ -40,17 +40,20 @@
 
 /***		Carousel         ***/
 
-.carousel-boxsize {
+#carousel {
 	min-width: 100%;
 	position: relative;
-	background: #353535;
 	padding-top: 65px;
 	padding-bottom: 15px;
-}
-
-.carousel .item {
-	width: 100%;
-	max-height: 600px;
+	/* Background gradient to work in several different browsers */
+	background-color:#202020;
+	filter:progid:DXImageTransform.Microsoft.gradient(GradientType=1,startColorstr=#202020, endColorstr=#757575);
+	background-image:-moz-linear-gradient(left, #202020 15%, #757575 50%,#202020 85%);
+	background-image:linear-gradient(left, #202020 15%, #757575 50%,#202020 85%);
+	background-image:-webkit-linear-gradient(left, #202020 15%, #757575 50%,#202020 85%);
+	background-image:-o-linear-gradient(left, #202020 15%, #757575 50%,#202020 85%);
+	background-image:-ms-linear-gradient(left, #202020 15%, #757575 50%,#202020 85%);
+	background-image:-webkit-gradient(linear, left bottom, right bottom, color-stop(15%,#202020), color-stop(50%,#757575),color-stop(85%,#202020));
 }
 
 .carousel .item img {
@@ -67,7 +70,7 @@
 .carousel-text {
 	font-size: large;
 	font-weight: bold;
-	color: rgb(120, 120, 120);
+	color: #FFFFFF;
 }
 
 /********************************
