@@ -1,6 +1,17 @@
 <?php $page="news"; include 'site/header.html';?>
+
+<!-- div container for marquee news -->
+<div id="marquee-home" class="container hidden">
+	<div class="row">
+		<div class="col-md-12">
+			
+		</div>
+	</div>
+</div>
+
+
 <!-- div container for carousel -->
-<div id="carousel" class="container">
+<div id="carousel" class="container slide" data-interval="5000" data-ride="carousel">
 	<div class="row">
 		<div class="col-md-12">
 			<!-- Carousel indicators -->
@@ -15,42 +26,29 @@
 			<div class="carousel-inner">
 				<div class="item active">
 					<img src="images/carousel/riccardo.JPG" alt="slide1">
-					
-				<!-- Add picture here along with some text or a button -->
-			
 				</div>
 				<div class="item">
-					<img src="images/carousel/botas.jpg" alt="slide2">
-					
-				<!-- Add picture here along with some text or a button -->
-			
+					<img src="images/carousel/bottas.jpg" alt="slide2">
 				</div>
 				<div class="item">
 					<img src="images/carousel/ericsson.jpg" alt="slide3">
-					
-				<!-- Add picture here along with some text or a button -->
-			
 				</div>
 				<div class="item">
 					<img src="images/carousel/ferrari_silverstone.jpg" alt="slide4">
-					
-				<!-- Add picture here along with some text or a button -->
-				
 				</div>
 				<div class="item">
 					<img src="images/carousel/vettel.jpg" alt="slide5">
-					
-				<!-- Add picture here along with some text or a button -->
-			
 				</div>
 			</div>
 		</div>
 		<!-- Icon for carousel controls -->
-		<a href="#main-carousel" class="carousel-control left" data-slide="prev">
+		<a id="prev-slide" href="#main-carousel" class="carousel-control left" data-slide="prev">
 			<span class="glyphicon glyphicon-chevron-left"></span>
+			<span class="sr-only">Previous</span>
 		</a>
-		<a href="#main-carousel" class="carousel-control right" data-slide="next">
+		<a id="next-slide" href="#main-carousel" class="carousel-control right" data-slide="next">
 			<span class="glyphicon glyphicon-chevron-right"></span>
+			<span class="sr-only">Next</span>
 		</a>
 	</div>
 </div>
