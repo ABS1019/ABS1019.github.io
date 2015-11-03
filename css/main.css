@@ -40,8 +40,28 @@
 
 /***		Carousel         ***/
 
+.carousel-boxsize {
+	min-width: 100%;
+	position: relative;
+	background: #353535;
+	padding-top: 65px;
+	padding-bottom: 15px;
+}
+
+.carousel .item {
+	width: 100%;
+	max-height: 600px;
+}
+
 .carousel .item img {
-	margin: 0 auto;
+	width: 100%;
+	height: auto;
+}
+
+.carousel .carousel-control {
+	background: none;
+	border: none;
+	top: 50%;
 }
 
 .carousel-text {
