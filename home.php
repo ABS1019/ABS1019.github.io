@@ -52,9 +52,40 @@
 		</a>
 	</div>
 </div>
+
+<!-- div container for first block of news -->
 <div class="container">
 	<div class="row">
-		<div class="col-md-12">
+            <div class="col-sm-6 col-md-4 col-lg-3"><p class="news-p">Box 1</p></div>
+            <div class="col-sm-6 col-md-4 col-lg-3"><p class="news-p">Box 2</p></div>
+            <div class="clearfix visible-sm-block"></div>
+            <div class="col-sm-6 col-md-4 col-lg-3"><p class="news-p">Box 3</p></div>
+            <div class="clearfix visible-md-block"></div>
+            <div class="col-sm-6 col-md-4 col-lg-3"><p class="news-p">Box 4</p></div>
+            <div class="clearfix visible-sm-block"></div>
+            <div class="clearfix visible-lg-block"></div>
+            <div class="col-sm-6 col-md-4 col-lg-3"><p class="news-p">Box 5</p></div>
+            <div class="col-sm-6 col-md-4 col-lg-3"><p class="news-p">Box 6</p></div>
+            <div class="clearfix visible-sm-block"></div>
+            <div class="clearfix visible-md-block"></div>
+            <div class="col-sm-6 col-md-4 col-lg-3"><p class="news-p">Box 7</p></div>
+            <div class="col-sm-6 col-md-4 col-lg-3"><p class="news-p">Box 8</p></div>
+            <div class="clearfix visible-sm-block"></div>
+            <div class="clearfix visible-lg-block"></div>
+            <div class="col-sm-6 col-md-4 col-lg-3"><p class="news-p">Box 9</p></div>
+            <div class="clearfix visible-md-block"></div>
+            <div class="col-sm-6 col-md-4 col-lg-3"><p class="news-p">Box 10</p></div>
+            <div class="clearfix visible-sm-block"></div>
+            <div class="col-sm-6 col-md-4 col-lg-3"><p class="news-p">Box 11</p></div>
+            <div class="col-sm-6 col-md-4 col-lg-3"><p class="news-p">Box 12</p></div>
+
+	</div>
+</div>
+
+<!-- div container for second block of news -->
+<div class="container">
+	<div class="row">
+		<div id="news-block2" class="col-md-12">
 			
 		</div>
 	</div>
