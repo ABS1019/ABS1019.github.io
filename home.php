@@ -11,7 +11,7 @@
 
 
 <!-- div container for carousel -->
-<div id="carousel" class="container slide" data-interval="5000" data-ride="carousel">
+<div id="carousel" class="container container-border slide" data-interval="5000" data-ride="carousel">
 	<div class="row">
 		<div class="col-xs-12">
 			<!-- Carousel indicators -->
@@ -78,19 +78,6 @@
             <div class="clearfix visible-sm-block"></div>
             <div class="col-sm-6 col-md-4 col-lg-3"><p class="news-p">Box 11</p></div>
             <div class="col-sm-6 col-md-4 col-lg-3"><p class="news-p">Box 12</p></div>
-	</div>
-</div>
-<div class="container show-more">
-	<div class="row">
-		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center more-stories">Read more stories</div>
-	</div>
-</div>
-<!-- div container for second block of news -->
-<div class="container">
-	<div class="row">
-		<div id="news-block2" class="col-md-12">
-			
-		</div>
 	</div>
 </div>
 
