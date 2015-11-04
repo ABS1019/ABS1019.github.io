@@ -56,28 +56,112 @@
 <!-- div container for first block of news -->
 <div class="container">
 	<div class="row">
-            <div class="col-sm-6 col-md-4 col-lg-3"><p class="news-p">Box 1</p></div>
-            <div class="col-sm-6 col-md-4 col-lg-3"><p class="news-p">Box 2</p></div>
+            <div class="col-sm-6 col-md-4 col-lg-3">
+				<div class="news-p">
+					<img class="story-img" src="images/stories/vettel-story.jpg">
+				</div>
+				<div class="news-p">
+					<img class="story-img" src="">
+				</div>
+			</div>
+            <div class="col-sm-6 col-md-4 col-lg-3">
+				<div class="news-p">
+					<img class="story-img" src="">
+				</div>
+				<div class="news-p">
+					<img class="story-img" src="">
+				</div>
+			</div>
             <div class="clearfix visible-sm-block"></div>
-            <div class="col-sm-6 col-md-4 col-lg-3"><p class="news-p">Box 3</p></div>
+            <div class="col-sm-6 col-md-4 col-lg-3">
+				<div class="news-p">
+					<img class="story-img" src="">
+				</div>
+				<div class="news-p">
+					<img class="story-img" src="">
+				</div>
+			</div>
             <div class="clearfix visible-md-block"></div>
-            <div class="col-sm-6 col-md-4 col-lg-3"><p class="news-p">Box 4</p></div>
+            <div class="col-sm-6 col-md-4 col-lg-3">
+				<div class="news-p">
+					<img class="story-img" src="">
+				</div>
+				<div class="news-p">
+					<img class="story-img" src="">
+				</div>
+			</div>
             <div class="clearfix visible-sm-block"></div>
             <div class="clearfix visible-lg-block"></div>
-            <div class="col-sm-6 col-md-4 col-lg-3"><p class="news-p">Box 5</p></div>
-            <div class="col-sm-6 col-md-4 col-lg-3"><p class="news-p">Box 6</p></div>
+            <div class="col-sm-6 col-md-4 col-lg-3">
+				<div class="news-p">
+					<img class="story-img" src="">
+				</div>
+				<div class="news-p">
+					<img class="story-img" src="">
+				</div>
+			</div>
+            <div class="col-sm-6 col-md-4 col-lg-3">
+				<div class="news-p">
+					<img class="story-img" src="">
+				</div>
+				<div class="news-p">
+					<img class="story-img" src="">
+				</div>
+			</div>
             <div class="clearfix visible-sm-block"></div>
             <div class="clearfix visible-md-block"></div>
-            <div class="col-sm-6 col-md-4 col-lg-3"><p class="news-p">Box 7</p></div>
-            <div class="col-sm-6 col-md-4 col-lg-3"><p class="news-p">Box 8</p></div>
+            <div class="col-sm-6 col-md-4 col-lg-3">
+				<div class="news-p">
+					<img class="story-img" src="">
+				</div>
+				<div class="news-p">
+					<img class="story-img" src="">
+				</div>
+			</div>
+            <div class="col-sm-6 col-md-4 col-lg-3">
+				<div class="news-p">
+					<img class="story-img" src="">
+				</div>
+				<div class="news-p">
+					<img class="story-img" src="">
+				</div>
+			</div>
             <div class="clearfix visible-sm-block"></div>
             <div class="clearfix visible-lg-block"></div>
-            <div class="col-sm-6 col-md-4 col-lg-3"><p class="news-p">Box 9</p></div>
+            <div class="col-sm-6 col-md-4 col-lg-3">
+				<div class="news-p">
+					<img class="story-img" src="">
+				</div>
+				<div class="news-p">
+					<img class="story-img" src="">
+				</div>
+			</div>
             <div class="clearfix visible-md-block"></div>
-            <div class="col-sm-6 col-md-4 col-lg-3"><p class="news-p">Box 10</p></div>
+            <div class="col-sm-6 col-md-4 col-lg-3">
+				<div class="news-p">
+					<img class="story-img" src="">
+				</div>
+				<div class="news-p">
+					<img class="story-img" src="">
+				</div>
+			</div>
             <div class="clearfix visible-sm-block"></div>
-            <div class="col-sm-6 col-md-4 col-lg-3"><p class="news-p">Box 11</p></div>
-            <div class="col-sm-6 col-md-4 col-lg-3"><p class="news-p">Box 12</p></div>
+            <div class="col-sm-6 col-md-4 col-lg-3">
+				<div class="news-p">
+					<img class="story-img" src="">
+				</div>
+				<div class="news-p">
+					<img class="story-img" src="">
+				</div>
+			</div>
+            <div class="col-sm-6 col-md-4 col-lg-3">
+				<div class="news-p">
+					<img class="story-img" src="">
+				</div>
+				<div class="news-p">
+					<img class="story-img" src="">
+				</div>
+			</div>
 	</div>
 </div>
 

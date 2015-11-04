@@ -13,6 +13,7 @@ body {
 
 .container-border {
 	border-bottom: 1px solid #FFFFFF;
+	margin-bottom: 15px;
 }
 
 /********************************
@@ -94,20 +95,27 @@ body {
 
 /***		News grids        ***/
 
-
-
 .news-p {
 	margin-top: 5px;
 	margin-bottom: 5px;
 	margin-left: -10px;
 	margin-right: -10px; 
-	padding-top: 200px;
-	padding-bottom: 200px;
-	font-size: 32px;
-	font-weight: bold;
-	text-align: center;
+	padding-top: 150px;
+	padding-bottom: 180px;
 	background: #F5F5F5;
-	border: 2px solid#CCCCCC;
+	border: 2px solid#000000;
+}
+
+.story-img {
+    zoom: 2;  
+    display: block;
+    margin: auto;
+
+    height: auto;
+    max-height: 100%;
+
+    width: auto;
+    max-width: 100%;
 }
 
 
@@ -154,20 +162,9 @@ body {
 		CSS for footer
 *********************************/
 
-.footer-style {
-	
+footer {
+	position: fixed;
 	width: 100%;
 	height: 200px;
-	background: #000000;
-	margin: 0;
-	font-size: 12px;
-	font-weight: bold;
-	color: #FFFFFF;
+	bottom: 0;
 }
-
-.footer-border {
-	border-top: 1px solid #FFFFFF;
-}
-
-
-
