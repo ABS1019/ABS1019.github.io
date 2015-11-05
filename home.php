@@ -45,62 +45,86 @@
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/vettel.jpg">
 			<section class="story-text hover-animation">
-				<p>DCDFFCSDFVFDVDSGVDFSDVCGDAHJHDGSF</p>
+				<h3 class="home-h3">DCDFFCSDFVFDVDSGVDF</h3>
 			</section>
 		</div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/horner.jpg">
-			<section class="story-text hover-animation"></section>
+			<section class="story-text hover-animation">
+				<h3 class="home-h3">DCDFFCSDFVFDVDSGVDF</h3>
+			</section>
 		</div>
 		<div class="clearfix visible-sm-block"></div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/perez.jpg">
-			<section class="story-text hover-animation"></section>
+			<section class="story-text hover-animation">
+				<h3 class="home-h3">DCDFFCSDFVFDVDSGVDF</h3>
+			</section>
 		</div>
 		<div class="clearfix visible-md-block"></div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/raikkonen.jpg">
-			<section class="story-text hover-animation"></section>
+			<section class="story-text hover-animation">
+				<h3 class="home-h3">DCDFFCSDFVFDVDSGVDF</h3>
+			</section>
 		</div>
 		<div class="clearfix visible-sm-block"></div>
 		<div class="clearfix visible-lg-block"></div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/pirelli.jpg">
-			<section class="story-text hover-animation"></section>
+			<section class="story-text hover-animation">
+				<h3 class="home-h3">DCDFFCSDFVFDVDSGVDF</h3>
+			</section>
 		</div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/rosberg.jpg">
-			<section class="story-text hover-animation"></section>
+			<section class="story-text hover-animation">
+				<h3 class="home-h3">DCDFFCSDFVFDVDSGVDF</h3>
+			</section>
 		</div>
 		<div class="clearfix visible-sm-block"></div>
 		<div class="clearfix visible-md-block"></div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/rosberg-win.jpg">
-			<section class="story-text hover-animation"></section>
+			<section class="story-text hover-animation">
+				<h3 class="home-h3">DCDFFCSDFVFDVDSGVDF</h3>
+			</section>
 		</div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/lh-vs-nr.jpg">
-			<section class="story-text hover-animation"></section>
+			<section class="story-text hover-animation">
+				<h3 class="home-h3">DCDFFCSDFVFDVDSGVDF</h3>
+			</section>
 		</div>
 		<div class="clearfix visible-sm-block"></div>
 		<div class="clearfix visible-lg-block"></div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/magnussen.jpg">
-			<section class="story-text hover-animation"></section>
+			<a href="#">
+				<section class="story-text hover-animation">
+					<h3 class="home-h3">DCDFFCSDFVFDVDSGVDF</h3>
+				</section>
+			</a>
 		</div>
 		<div class="clearfix visible-md-block"></div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/kvyat.jpg">
-			<section class="story-text hover-animation"></section>
+			<section class="story-text hover-animation">
+				<h3 class="home-h3">DCDFFCSDFVFDVDSGVDF</h3>
+			</section>
 		</div>
 		<div class="clearfix visible-sm-block"></div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/vettel-puncture.jpg">
-			<section class="story-text hover-animation"></section>
+			<section class="story-text hover-animation">
+				<h3 class="home-h3">DCDFFCSDFVFDVDSGVDF</h3>
+			</section>
 		</div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/rossi.jpg">
-			<section class="story-text hover-animation"></section>
+			<section class="story-text hover-animation">
+				<h3 class="home-h3">DCDFFCSDFVFDVDSGVDF</h3>
+			</section>
 		</div>
 	</div>
 </div>
