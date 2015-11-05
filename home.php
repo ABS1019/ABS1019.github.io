@@ -20,7 +20,13 @@
 				<li data-target="#main-carousel" data-slide-to="1"></li>
 				<li data-target="#main-carousel" data-slide-to="2"></li>
 				<li data-target="#main-carousel" data-slide-to="3"></li>
-				<li data-target="#main-carousel" data-slide-to="4"></li>		
+				<li data-target="#main-carousel" data-slide-to="4"></li>
+				<li data-target="#main-carousel" data-slide-to="5"></li>
+				<li data-target="#main-carousel" data-slide-to="6"></li>
+				<li data-target="#main-carousel" data-slide-to="7"></li>
+				<li data-target="#main-carousel" data-slide-to="8"></li>
+				<li data-target="#main-carousel" data-slide-to="9"></li>
+				<li data-target="#main-carousel" data-slide-to="10"></li>	
 			</ol>
 			<!-- Carousel wrappers -->
 			<div class="carousel-inner">
@@ -57,61 +63,61 @@
 <div class="container story-width">
 	<div class="row">
 		<div class="col-sm-6 col-md-4 col-lg-3">
-			<img class="story-img" src="images/stories/vettel-story.jpg">
+			<img class="story-img" src="images/stories/vettel.jpg">
 			<div class="story-text"></div>
 		</div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
-			<img class="story-img" src="images/stories/horner-story.jpg">
+			<img class="story-img" src="images/stories/horner.jpg">
 			<div class="story-text"></div>
 		</div>
 		<div class="clearfix visible-sm-block"></div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
-			<img class="story-img" src="images/stories/perez-story.jpg">
+			<img class="story-img" src="images/stories/perez.jpg">
 			<div class="story-text"></div>
 		</div>
 		<div class="clearfix visible-md-block"></div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
-			<img class="story-img" src="images/stories/raikkonen-story.jpg">
+			<img class="story-img" src="images/stories/raikkonen.jpg">
 			<div class="story-text"></div>
 		</div>
 		<div class="clearfix visible-sm-block"></div>
 		<div class="clearfix visible-lg-block"></div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
-			<img class="story-img" src="images/stories/pirelli-story.jpg">
+			<img class="story-img" src="images/stories/pirelli.jpg">
 			<div class="story-text"></div>
 		</div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
-			<img class="story-img" src="images/stories/rosberg-story.jpg">
+			<img class="story-img" src="images/stories/rosberg.jpg">
 			<div class="story-text"></div>
 		</div>
 		<div class="clearfix visible-sm-block"></div>
 		<div class="clearfix visible-md-block"></div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
-			<img class="story-img" src="images/stories/vettel-story.jpg">
+			<img class="story-img" src="images/stories/rosberg-win.jpg">
 			<div class="story-text"></div>
 		</div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
-			<img class="story-img" src="images/stories/vettel-story.jpg">
+			<img class="story-img" src="images/stories/lh-vs-nr.jpg">
 			<div class="story-text"></div>
 		</div>
 		<div class="clearfix visible-sm-block"></div>
 		<div class="clearfix visible-lg-block"></div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
-			<img class="story-img" src="images/stories/vettel-story.jpg">
+			<img class="story-img" src="images/stories/magnussen.jpg">
 			<div class="story-text"></div>
 		</div>
 		<div class="clearfix visible-md-block"></div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
-			<img class="story-img" src="images/stories/vettel-story.jpg">
+			<img class="story-img" src="images/stories/kvyat.jpg">
 			<div class="story-text"></div>
 		</div>
 		<div class="clearfix visible-sm-block"></div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
-			<img class="story-img" src="images/stories/vettel-story.jpg">
+			<img class="story-img" src="images/stories/vettel-puncture.jpg">
 			<div class="story-text"></div>
 		</div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
-			<img class="story-img" src="images/stories/vettel-story.jpg">
+			<img class="story-img" src="images/stories/rossi.jpg">
 			<div class="story-text"></div>
 		</div>
 	</div>
