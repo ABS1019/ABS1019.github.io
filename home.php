@@ -71,17 +71,17 @@
 		</div>
 		<div class="clearfix visible-md-block"></div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
-			<img class="story-img" src="images/stories/vettel-story.jpg">
+			<img class="story-img" src="images/stories/raikkonen-story.jpg">
 			<div class="story-text"></div>
 		</div>
 		<div class="clearfix visible-sm-block"></div>
 		<div class="clearfix visible-lg-block"></div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
-			<img class="story-img" src="images/stories/vettel-story.jpg">
+			<img class="story-img" src="images/stories/pirelli-story.jpg">
 			<div class="story-text"></div>
 		</div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
-			<img class="story-img" src="images/stories/vettel-story.jpg">
+			<img class="story-img" src="images/stories/rosberg-story.jpg">
 			<div class="story-text"></div>
 		</div>
 		<div class="clearfix visible-sm-block"></div>
