@@ -3,6 +3,15 @@
 *********************************/
 		
 body {
+	font-weight:normal;
+	color:#000000;
+	letter-spacing:0pt;
+	word-spacing:0pt;
+	font-size:1em;
+	text-align:left;
+	font-family:tahoma, verdana, arial, sans-serif;
+	line-height:1;
+
 	background: rgba(158,158,158,1);
 	background: -moz-linear-gradient(left, rgba(158,158,158,1) 0%, rgba(219,219,219,1) 25%, rgba(235,235,235,1) 51%, rgba(219,219,219,1) 75%, rgba(158,158,158,1) 100%);
 	background: -webkit-gradient(left top, right top, color-stop(0%, rgba(158,158,158,1)), color-stop(25%, rgba(219,219,219,1)), color-stop(51%, rgba(235,235,235,1)), color-stop(75%, rgba(219,219,219,1)), color-stop(100%, rgba(158,158,158,1)));

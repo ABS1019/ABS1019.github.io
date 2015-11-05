@@ -49,8 +49,16 @@
 .story-text {
 	width: auto;
 	height: 125px;
-	background-color: #FFFFFF;
 	border-bottom: 2px solid #D31411;
+	overflow: hidden;
+	transition: background-color 0.5s ease;
+	background-color: #FFFFFF;
+	color: #000000;
+}
+
+.story-text:hover {
+	background-color: #000000;
+	color: #FFFFFF;
 }
 
 .home-spacing {

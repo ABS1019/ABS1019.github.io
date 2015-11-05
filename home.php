@@ -40,67 +40,67 @@
 </div>
 
 <!-- div container for first row of news -->
-<div class="container story-width">
+<div id="all-news" class="container story-width">
 	<div class="row">
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/vettel.jpg">
-			<div class="story-text"></div>
+			<section class="story-text hover-animation">
+				<p>DCDFFCSDFVFDVDSGVDFSDVCGDAHJHDGSF</p>
+			</section>
 		</div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/horner.jpg">
-			<div class="story-text"></div>
+			<section class="story-text hover-animation"></section>
 		</div>
 		<div class="clearfix visible-sm-block"></div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/perez.jpg">
-			<div class="story-text"></div>
+			<section class="story-text hover-animation"></section>
 		</div>
 		<div class="clearfix visible-md-block"></div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/raikkonen.jpg">
-			<div class="story-text"></div>
+			<section class="story-text hover-animation"></section>
 		</div>
 		<div class="clearfix visible-sm-block"></div>
 		<div class="clearfix visible-lg-block"></div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/pirelli.jpg">
-			<div class="story-text"></div>
+			<section class="story-text hover-animation"></section>
 		</div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/rosberg.jpg">
-			<div class="story-text"></div>
+			<section class="story-text hover-animation"></section>
 		</div>
 		<div class="clearfix visible-sm-block"></div>
 		<div class="clearfix visible-md-block"></div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/rosberg-win.jpg">
-			<div class="story-text"></div>
+			<section class="story-text hover-animation"></section>
 		</div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/lh-vs-nr.jpg">
-			<div class="story-text"></div>
+			<section class="story-text hover-animation"></section>
 		</div>
 		<div class="clearfix visible-sm-block"></div>
 		<div class="clearfix visible-lg-block"></div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/magnussen.jpg">
-			<div class="story-text"></div>
+			<section class="story-text hover-animation"></section>
 		</div>
 		<div class="clearfix visible-md-block"></div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/kvyat.jpg">
-			<div class="story-text">
-				
-			</div>
+			<section class="story-text hover-animation"></section>
 		</div>
 		<div class="clearfix visible-sm-block"></div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/vettel-puncture.jpg">
-			<div class="story-text"></div>
+			<section class="story-text hover-animation"></section>
 		</div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/rossi.jpg">
-			<div class="story-text"></div>
+			<section class="story-text hover-animation"></section>
 		</div>
 	</div>
 </div>
