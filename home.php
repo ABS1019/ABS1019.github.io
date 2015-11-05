@@ -53,115 +53,67 @@
 	</div>
 </div>
 
-<!-- div container for first block of news -->
-<div class="container">
+<!-- div container for first row of news -->
+<div class="container story-width">
 	<div class="row">
-            <div class="col-sm-6 col-md-4 col-lg-3">
-				<div class="news-p">
-					<img class="story-img" src="images/stories/vettel-story.jpg">
-				</div>
-				<div class="news-p">
-					<img class="story-img" src="">
-				</div>
-			</div>
-            <div class="col-sm-6 col-md-4 col-lg-3">
-				<div class="news-p">
-					<img class="story-img" src="">
-				</div>
-				<div class="news-p">
-					<img class="story-img" src="">
-				</div>
-			</div>
-            <div class="clearfix visible-sm-block"></div>
-            <div class="col-sm-6 col-md-4 col-lg-3">
-				<div class="news-p">
-					<img class="story-img" src="">
-				</div>
-				<div class="news-p">
-					<img class="story-img" src="">
-				</div>
-			</div>
-            <div class="clearfix visible-md-block"></div>
-            <div class="col-sm-6 col-md-4 col-lg-3">
-				<div class="news-p">
-					<img class="story-img" src="">
-				</div>
-				<div class="news-p">
-					<img class="story-img" src="">
-				</div>
-			</div>
-            <div class="clearfix visible-sm-block"></div>
-            <div class="clearfix visible-lg-block"></div>
-            <div class="col-sm-6 col-md-4 col-lg-3">
-				<div class="news-p">
-					<img class="story-img" src="">
-				</div>
-				<div class="news-p">
-					<img class="story-img" src="">
-				</div>
-			</div>
-            <div class="col-sm-6 col-md-4 col-lg-3">
-				<div class="news-p">
-					<img class="story-img" src="">
-				</div>
-				<div class="news-p">
-					<img class="story-img" src="">
-				</div>
-			</div>
-            <div class="clearfix visible-sm-block"></div>
-            <div class="clearfix visible-md-block"></div>
-            <div class="col-sm-6 col-md-4 col-lg-3">
-				<div class="news-p">
-					<img class="story-img" src="">
-				</div>
-				<div class="news-p">
-					<img class="story-img" src="">
-				</div>
-			</div>
-            <div class="col-sm-6 col-md-4 col-lg-3">
-				<div class="news-p">
-					<img class="story-img" src="">
-				</div>
-				<div class="news-p">
-					<img class="story-img" src="">
-				</div>
-			</div>
-            <div class="clearfix visible-sm-block"></div>
-            <div class="clearfix visible-lg-block"></div>
-            <div class="col-sm-6 col-md-4 col-lg-3">
-				<div class="news-p">
-					<img class="story-img" src="">
-				</div>
-				<div class="news-p">
-					<img class="story-img" src="">
-				</div>
-			</div>
-            <div class="clearfix visible-md-block"></div>
-            <div class="col-sm-6 col-md-4 col-lg-3">
-				<div class="news-p">
-					<img class="story-img" src="">
-				</div>
-				<div class="news-p">
-					<img class="story-img" src="">
-				</div>
-			</div>
-            <div class="clearfix visible-sm-block"></div>
-            <div class="col-sm-6 col-md-4 col-lg-3">
-				<div class="news-p">
-					<img class="story-img" src="">
-				</div>
-				<div class="news-p">
-					<img class="story-img" src="">
-				</div>
-			</div>
-            <div class="col-sm-6 col-md-4 col-lg-3">
-				<div class="news-p">
-					<img class="story-img" src="">
-				</div>
-				<div class="news-p">
-					<img class="story-img" src="">
-				</div>
-			</div>
+		<div class="col-sm-6 col-md-4 col-lg-3">
+			<img class="story-img" src="images/stories/vettel-story.jpg">
+			<div class="story-text"></div>
+		</div>
+		<div class="col-sm-6 col-md-4 col-lg-3">
+			<img class="story-img" src="images/stories/horner-story.jpg">
+			<div class="story-text"></div>
+		</div>
+		<div class="clearfix visible-sm-block"></div>
+		<div class="col-sm-6 col-md-4 col-lg-3">
+			<img class="story-img" src="images/stories/perez-story.jpg">
+			<div class="story-text"></div>
+		</div>
+		<div class="clearfix visible-md-block"></div>
+		<div class="col-sm-6 col-md-4 col-lg-3">
+			<img class="story-img" src="images/stories/vettel-story.jpg">
+			<div class="story-text"></div>
+		</div>
+		<div class="clearfix visible-sm-block"></div>
+		<div class="clearfix visible-lg-block"></div>
+		<div class="col-sm-6 col-md-4 col-lg-3">
+			<img class="story-img" src="images/stories/vettel-story.jpg">
+			<div class="story-text"></div>
+		</div>
+		<div class="col-sm-6 col-md-4 col-lg-3">
+			<img class="story-img" src="images/stories/vettel-story.jpg">
+			<div class="story-text"></div>
+		</div>
+		<div class="clearfix visible-sm-block"></div>
+		<div class="clearfix visible-md-block"></div>
+		<div class="col-sm-6 col-md-4 col-lg-3">
+			<img class="story-img" src="images/stories/vettel-story.jpg">
+			<div class="story-text"></div>
+		</div>
+		<div class="col-sm-6 col-md-4 col-lg-3">
+			<img class="story-img" src="images/stories/vettel-story.jpg">
+			<div class="story-text"></div>
+		</div>
+		<div class="clearfix visible-sm-block"></div>
+		<div class="clearfix visible-lg-block"></div>
+		<div class="col-sm-6 col-md-4 col-lg-3">
+			<img class="story-img" src="images/stories/vettel-story.jpg">
+			<div class="story-text"></div>
+		</div>
+		<div class="clearfix visible-md-block"></div>
+		<div class="col-sm-6 col-md-4 col-lg-3">
+			<img class="story-img" src="images/stories/vettel-story.jpg">
+			<div class="story-text"></div>
+		</div>
+		<div class="clearfix visible-sm-block"></div>
+		<div class="col-sm-6 col-md-4 col-lg-3">
+			<img class="story-img" src="images/stories/vettel-story.jpg">
+			<div class="story-text"></div>
+		</div>
+		<div class="col-sm-6 col-md-4 col-lg-3">
+			<img class="story-img" src="images/stories/vettel-story.jpg">
+			<div class="story-text"></div>
+		</div>
 	</div>
 </div>
 

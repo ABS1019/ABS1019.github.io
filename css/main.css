@@ -95,27 +95,26 @@ body {
 
 /***		News grids        ***/
 
-.news-p {
-	margin-top: 5px;
-	margin-bottom: 5px;
-	margin-left: -10px;
-	margin-right: -10px; 
-	padding-top: 150px;
-	padding-bottom: 180px;
-	background: #F5F5F5;
-	border: 2px solid#000000;
+.story-width {
+	width: 100%;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+.story-img {
+    display: block;
+    margin: 0 auto;
+	
+	width: auto;
+	max-width: 100%;
+    height: auto;
+	max-height: 100%;
+	border-top: 60px solid transparent;
 }
 
-.story-img {
-    zoom: 2;  
-    display: block;
-    margin: auto;
-
-    height: auto;
-    max-height: 100%;
-
-    width: auto;
-    max-width: 100%;
+.story-text {
+	width: auto;
+	height: 125px;
+	background-color: #F5F5F5;
 }
 
 
