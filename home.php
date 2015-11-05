@@ -26,25 +26,45 @@
 				<li data-target="#main-carousel" data-slide-to="7"></li>
 				<li data-target="#main-carousel" data-slide-to="8"></li>
 				<li data-target="#main-carousel" data-slide-to="9"></li>
-				<li data-target="#main-carousel" data-slide-to="10"></li>	
+				<li data-target="#main-carousel" data-slide-to="10"></li>
+				<li data-target="#main-carousel" data-slide-to="11"></li>
+				<li data-target="#main-carousel" data-slide-to="12"></li>
+				<li data-target="#main-carousel" data-slide-to="13"></li>
+				<li data-target="#main-carousel" data-slide-to="14"></li>
+				<li data-target="#main-carousel" data-slide-to="15"></li>	
 			</ol>
 			<!-- Carousel wrappers -->
 			<div class="carousel-inner">
 				<div class="item active">
-					<img src="images/carousel/riccardo.JPG" alt="slide1">
-				</div>
+					<img src="images/carousel/riccardo.JPG" alt="slide1"></div>
 				<div class="item">
-					<img src="images/carousel/bottas.jpg" alt="slide2">
-				</div>
+					<img src="images/carousel/bottas.jpg" alt="slide2"></div>
 				<div class="item">
-					<img src="images/carousel/ericsson.jpg" alt="slide3">
-				</div>
+					<img src="images/carousel/ericsson.jpg" alt="slide3"></div>
 				<div class="item">
-					<img src="images/carousel/ferrari_silverstone.jpg" alt="slide4">
-				</div>
+					<img src="images/carousel/ferrari_silverstone.jpg" alt="slide4"></div>
 				<div class="item">
-					<img src="images/carousel/vettel.jpg" alt="slide5">
-				</div>
+					<img src="images/carousel/vettel.jpg" alt="slide5"></div>
+				<div class="item">
+					<img src="images/carousel/ferrari.jpg" alt="slide6"></div>
+				<div class="item">
+					<img src="images/carousel/perezz.jpg" alt="slide7"></div>
+				<div class="item">
+					<img src="images/carousel/kr_sv.jpg" alt="slide8"></div>
+				<div class="item">
+					<img src="images/carousel/nr.jpg" alt="slide9"></div>
+				<div class="item">
+					<img src="images/carousel/cars.jpg" alt="slide10"></div>
+				<div class="item">
+					<img src="images/carousel/force.jpg" alt="slide11"></div>
+				<div class="item">
+					<img src="images/carousel/mercedes.jpg" alt="slide12"></div>
+				<div class="item">
+					<img src="images/carousel/cars2.jpg" alt="slide13"></div>
+				<div class="item">
+					<img src="images/carousel/alonsoo.jpg" alt="slide14"></div>
+				<div class="item">
+					<img src="images/carousel/ricciardo.jpg" alt="slide15"></div>
 			</div>
 		</div>
 		<!-- Icon for carousel controls -->
@@ -109,7 +129,9 @@
 		<div class="clearfix visible-md-block"></div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/kvyat.jpg">
-			<div class="story-text"></div>
+			<div class="story-text">
+				
+			</div>
 		</div>
 		<div class="clearfix visible-sm-block"></div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
