@@ -1,15 +1,5 @@
 <?php $page="news"; include 'site/header.html';?>
 
-<!-- div container for marquee news -->
-<div id="marquee-home" class="container hidden">
-	<div class="row">
-		<div class="col-md-12">
-			
-		</div>
-	</div>
-</div>
-
-
 <!-- div container for carousel -->
 <div id="carousel" class="container container-border slide" data-interval="5000" data-ride="carousel">
 	<div class="row">

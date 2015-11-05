@@ -2,15 +2,6 @@
    CSS for Latest News/Home page
 *********************************/
 
-/***		Marquee           ***/
-
-#marquee-home {
-	width: 100%;
-	height: 50px;
-	position: relative;
-}
-
-
 /***		Carousel          ***/
 
 #carousel {
