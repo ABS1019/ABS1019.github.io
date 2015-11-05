@@ -1,0 +1,68 @@
+/********************************
+   CSS for Latest News/Home page
+*********************************/
+
+/***		Marquee           ***/
+
+#marquee-home {
+	width: 100%;
+	height: 50px;
+	position: relative;
+}
+
+
+/***		Carousel          ***/
+
+#carousel {
+	width: 100%;
+	position: relative;
+	padding-top: 65px;
+}
+
+.carousel .item img {
+	width: 100%;
+	max-height: 600px;
+}
+
+.carousel .carousel-control {
+	background: none;
+	border: none;
+	top: 50%;
+}
+
+.carousel-text {
+	font-size: large;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+
+/***		News grids        ***/
+
+.story-width {
+	width: 100%;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+.story-img {
+    display: block;
+	margin: 0 auto;
+	
+	width: auto;
+	max-width: 100%;
+    height: auto;
+	max-height: 100%;
+	border-top: 60px solid transparent;
+}
+
+.story-text {
+	width: auto;
+	height: 125px;
+	background-color: #FFFFFF;
+	border-bottom: 2px solid #D31411;
+}
+
+.home-spacing {
+	width: 100%;
+	height: 60px;
+}
