@@ -109,8 +109,28 @@ body {
 *********************************/
 
 footer {
-	position: fixed;
 	width: 100%;
 	height: 200px;
 	bottom: 0;
+}
+
+.footer-style {
+	width: 24%;
+	margin: 0;
+	font-size: 15px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+.footer-background {
+	padding-top: 35px;
+	background-color: #000000;
+}
+
+a.highlight:hover {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.footer-color {
+	color: rgb(130, 130, 130);
 }
