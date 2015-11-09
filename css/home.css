@@ -68,14 +68,8 @@
 }
 
 .home-h3 {
-	width: auto;
-	margin-left: 15px;
-	padding-right: 10%;
-	padding-left: 10%;
-	position: relative;
+	width: 100%;
 	text-align: center;
-
-	margin-top: 10px;
 	font-size: 26px;
 	font: bold;
 }
