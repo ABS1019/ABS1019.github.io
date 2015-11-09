@@ -44,16 +44,16 @@
 	<div class="row">
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/vettel.jpg">
-			<a href="#">
-				<section class="story-text hover-animation">
+			<a class="hover-animation" href="#">
+				<section class="story-text">
 					<h3 class="home-h3">DCDFFCSDFVFDVDSGVDF</h3>
 				</section>
 			</a>
 		</div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/horner.jpg">
-			<a href="#">
-				<section class="story-text hover-animation">
+			<a class="hover-animation" href="#">
+				<section class="story-text">
 					<h3 class="home-h3">DCDFFCSDFVFDVDSGVDF</h3>
 				</section>
 			</a>
@@ -61,8 +61,8 @@
 		<div class="clearfix visible-sm-block"></div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/perez.jpg">
-			<a href="#">
-				<section class="story-text hover-animation">
+			<a class="hover-animation" href="#">
+				<section class="story-text">
 					<h3 class="home-h3">DCDFFCSDFVFDVDSGVDF</h3>
 				</section>
 			</a>
@@ -70,8 +70,8 @@
 		<div class="clearfix visible-md-block"></div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/raikkonen.jpg">
-			<a href="#">
-				<section class="story-text hover-animation">
+			<a class="hover-animation" href="#">
+				<section class="story-text">
 					<h3 class="home-h3">DCDFFCSDFVFDVDSGVDF</h3>
 				</section>
 			</a>
@@ -80,16 +80,16 @@
 		<div class="clearfix visible-lg-block"></div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/pirelli.jpg">
-			<a href="#">
-				<section class="story-text hover-animation">
+			<a class="hover-animation" href="#">
+				<section class="story-text">
 					<h3 class="home-h3">DCDFFCSDFVFDVDSGVDF</h3>
 				</section>
 			</a>
 		</div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/rosberg.jpg">
-			<a href="#">
-				<section class="story-text hover-animation">
+			<a class="hover-animation" href="#">
+				<section class="story-text">
 					<h3 class="home-h3">DCDFFCSDFVFDVDSGVDF</h3>
 				</section>
 			</a>
@@ -98,16 +98,16 @@
 		<div class="clearfix visible-md-block"></div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/rosberg-win.jpg">
-			<a href="#">
-				<section class="story-text hover-animation">
+			<a class="hover-animation" href="#">
+				<section class="story-text">
 					<h3 class="home-h3">DCDFFCSDFVFDVDSGVDF</h3>
 				</section>
 			</a>
 		</div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/lh-vs-nr.jpg">
-			<a href="#">
-				<section class="story-text hover-animation">
+			<a class="hover-animation" href="#">
+				<section class="story-text">
 					<h3 class="home-h3">DCDFFCSDFVFDVDSGVDF</h3>
 				</section>
 			</a>
@@ -116,8 +116,8 @@
 		<div class="clearfix visible-lg-block"></div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/magnussen.jpg">
-			<a href="#">
-				<section class="story-text hover-animation">
+			<a class="hover-animation" href="#">
+				<section class="story-text">
 					<h3 class="home-h3">DCDFFCSDFVFDVDSGVDF</h3>
 				</section>
 			</a>
@@ -125,8 +125,8 @@
 		<div class="clearfix visible-md-block"></div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/kvyat.jpg">
-			<a href="#">
-				<section class="story-text hover-animation">
+			<a class="hover-animation" href="#">
+				<section class="story-text">
 					<h3 class="home-h3">DCDFFCSDFVFDVDSGVDF</h3>
 				</section>
 			</a>
@@ -134,16 +134,16 @@
 		<div class="clearfix visible-sm-block"></div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/vettel-puncture.jpg">
-			<a href="#">
-				<section class="story-text hover-animation">
+			<a class="hover-animation" href="#">
+				<section class="story-text">
 					<h3 class="home-h3">DCDFFCSDFVFDVDSGVDF</h3>
 				</section>
 			</a>
 		</div>
 		<div class="col-sm-6 col-md-4 col-lg-3">
 			<img class="story-img" src="images/stories/rossi.jpg">
-			<a href="#">
-				<section class="story-text hover-animation">
+			<a class="hover-animation" href="#">
+				<section class="story-text">
 					<h3 class="home-h3">DCDFFCSDFVFDVDSGVDF</h3>
 				</section>
 			</a>
