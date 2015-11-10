@@ -110,7 +110,7 @@ body {
 
 footer {
 	width: 100%;
-	height: 100%;
+	height: 225px;
 	bottom: 0;
 	overflow: auto;
 }
@@ -133,4 +133,36 @@ a.highlight:hover {
 
 .footer-color {
 	color: rgb(130, 130, 130);
+}
+
+.footer-lining {
+	margin-top: 25px;
+	width: 100%;
+	height: 1px;
+	background-color: rgb(130, 130, 130);
+}
+
+.f1-footer-logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	width: 120px;
+	height: auto;
+}
+
+.tata-logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	width: 175px;
+	height: auto;
+}
+
+.cr-footer {
+	margin-top: 30px;
+	float: left;
+	color: rgb(130, 130, 130);
+	font-size: 10px;
 }
