@@ -151,11 +151,4 @@
 	</div>
 </div>
 
-<!-- Div for other info (marquee etc) -->
-<div class="container">
-	<div class="row">
-		
-	</div>
-</div>
-
 <?php include 'site/footer.html';?>
