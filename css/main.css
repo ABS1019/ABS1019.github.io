@@ -74,7 +74,7 @@ body {
 }
 
 .team-width {
-	max-width: 80%;
+	max-width: 90%;
 	max-height: 100%;
 	padding: 0;
 }
@@ -83,7 +83,7 @@ body {
 	background-color: #FFFFFF;
 	border-bottom: 1px solid #F0F0F0;
 	max-width: 90%;
-	height: 250px;
+	height: 300px;
 	max-height: 100%;
 	padding: 0;
 	position: relative;
@@ -95,7 +95,7 @@ body {
 }
 
 .team-img {
-	height: 250px;
+	height: 300px;
 	width: 100%;
 	max-width: 90%;
 	padding: 0;
@@ -120,10 +120,17 @@ body {
 	text-decoration: none;
 }
 
-.team-logos {
-	
+.team-details {
+	height: 280px;
+	border: 2px solid black;
 }
 
+.team-driver {
+	height: 300px;
+	width: auto;
+	max-width: 100%;
+	max-height: 100%;
+}
 
 
 /********************************

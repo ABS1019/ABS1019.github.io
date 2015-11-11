@@ -8,7 +8,12 @@
 	
 	<!-- Row for Mercedes -->
 	<div class="row no-gutter">
-		<div class="col-sm-6 team-info" style="border-right: 5px solid #2AB4A5"></div>
+		<div class="col-sm-6 team-info" style="border-right: 5px solid #2AB4A5">
+			<ul>
+				<li></li>
+				<li></li>
+			</ul>
+		</div>
 		<div class="col-sm-6" style="padding: 0;">
 			<img class="team-img img-grow" src="images/teams/merc.jpg" alt="Mercedes Photo">
 		</div>
@@ -16,7 +21,13 @@
 	
 	<!-- Row for Ferrari -->
 	<div class="row">
-		<div class="col-sm-6 team-info" style="border-right: 5px solid #C30000"></div>
+		<div class="col-sm-6 team-info" style="border-right: 5px solid #C30000">
+			<div class="col-xs-6 team-details">
+				
+			</div>
+			<div class="col-xs-3 team-driver"></div>
+			<div class="col-xs-3 team-driver"></div>
+		</div>
 		<div class="col-sm-6" style="padding: 0;">
 			<img class="team-img img-grow" src="images/teams/enzo.jpg" alt="Ferrari Photo">
 		</div>
@@ -24,7 +35,13 @@
 	
 	<!-- Row for Williams -->
 	<div class="row">
-		<div class="col-sm-6 team-info" style="border-right: 5px solid #FFFFFF"></div>
+		<div class="col-sm-6 team-info" style="border-right: 5px solid #FFFFFF">
+			<div class="col-xs-6 team-details">
+				
+			</div>
+			<div class="col-xs-3 team-driver"></div>
+			<div class="col-xs-3 team-driver"></div>
+		</div>
 		<div class="col-sm-6" style="padding: 0;">
 			<img class="team-img img-grow" src="images/teams/williams.jpg" alt="Williams Photo">
 		</div>
@@ -32,7 +49,13 @@
 	
 	<!-- Row for Red Bull Racing -->
 	<div class="row">
-		<div class="col-sm-6 team-info" style="border-right: 5px solid #4F1AAB"></div>
+		<div class="col-sm-6 team-info" style="border-right: 5px solid #4F1AAB">
+			<div class="col-xs-6 team-details">
+				
+			</div>
+			<div class="col-xs-3 team-driver"></div>
+			<div class="col-xs-3 team-driver"></div>
+		</div>
 		<div class="col-sm-6" style="padding: 0;">
 			<img class="team-img img-grow" src="images/teams/rbr.jpg" alt="Red Bull Racing Photo">
 		</div>
@@ -40,7 +63,13 @@
 	
 	<!-- Row for Force India -->
 	<div class="row">
-		<div class="col-sm-6 team-info" style="border-right: 5px solid #FF5F0F"></div>
+		<div class="col-sm-6 team-info" style="border-right: 5px solid #FF5F0F">
+			<div class="col-xs-6 team-details">
+				
+			</div>
+			<div class="col-xs-3 team-driver"></div>
+			<div class="col-xs-3 team-driver"></div>
+		</div>
 		<div class="col-sm-6" style="padding: 0;">
 			<img class="team-img img-grow" src="images/teams/fi.jpg" alt="Force India Photo">
 		</div>
@@ -48,7 +77,13 @@
 	
 	<!-- Row for Lotus -->
 	<div class="row">
-		<div class="col-sm-6 team-info" style="border-right: 5px solid #FFB800"></div>
+		<div class="col-sm-6 team-info" style="border-right: 5px solid #FFB800">
+			<div class="col-xs-6 team-details">
+				
+			</div>
+			<div class="col-xs-3 team-driver"></div>
+			<div class="col-xs-3 team-driver"></div>
+		</div>
 		<div class="col-sm-6" style="padding: 0;">
 			<img class="team-img img-grow" src="images/teams/lotus.jpg" alt="Lotus Photo">
 		</div>
@@ -56,7 +91,13 @@
 	
 	<!-- Row for Toro Rosso -->
 	<div class="row">
-		<div class="col-sm-6 team-info" style="border-right: 5px solid #0005C1"></div>
+		<div class="col-sm-6 team-info" style="border-right: 5px solid #0005C1">
+			<div class="col-xs-6 team-details">
+				
+			</div>
+			<div class="col-xs-3 team-driver"></div>
+			<div class="col-xs-3 team-driver"></div>
+		</div>
 		<div class="col-sm-6" style="padding: 0;">
 			<img class="team-img img-grow" src="images/teams/tr.jpg" alt="Toro Rosso Photo">
 		</div>
@@ -64,7 +105,13 @@
 	
 	<!-- Row for Sauber -->
 	<div class="row">
-		<div class="col-sm-6 team-info" style="border-right: 5px solid #0063FF"></div>
+		<div class="col-sm-6 team-info" style="border-right: 5px solid #0063FF">
+			<div class="col-xs-6 team-details">
+				
+			</div>
+			<div class="col-xs-3 team-driver"></div>
+			<div class="col-xs-3 team-driver"></div>
+		</div>
 		<div class="col-sm-6" style="padding: 0;">
 			<img class="team-img img-grow" src="images/teams/sauber.jpg" alt="Sauber Photo">
 		</div>
@@ -72,7 +119,13 @@
 	
 	<!-- Row for McLaren -->
 	<div class="row">
-		<div class="col-sm-6 team-info" style="border-right: 5px solid #808080"></div>
+		<div class="col-sm-6 team-info" style="border-right: 5px solid #808080">
+			<div class="col-xs-6 team-details">
+				
+			</div>
+			<div class="col-xs-3 team-driver"></div>
+			<div class="col-xs-3 team-driver"></div>
+		</div>
 		<div class="col-sm-6" style="padding: 0;">
 			<img class="team-img img-grow" src="images/teams/mclaren.jpg" alt="McLaren Photo">
 		</div>
@@ -80,7 +133,13 @@
 	
 	<!-- Row for Marussia -->
 	<div class="row">
-		<div class="col-sm-6 team-info" style="border-right: 5px solid #6E0000"></div>
+		<div class="col-sm-6 team-info" style="border-right: 5px solid #6E0000">
+			<div class="col-xs-6 team-details">
+				
+			</div>
+			<div class="col-xs-3 team-driver"></div>
+			<div class="col-xs-3 team-driver"></div>
+		</div>
 		<div class="col-sm-6" style="padding: 0;">
 			<img class="team-img img-grow" src="images/teams/marussia.jpg" alt="Marussia Photo">
 		</div>
