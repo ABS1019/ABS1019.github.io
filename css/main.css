@@ -68,6 +68,11 @@ body {
 		CSS for Team group
 *********************************/
 
+.teams-header {
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+
 .team-width {
 	max-width: 80%;
 	max-height: 100%;
@@ -76,8 +81,7 @@ body {
 
 .team-info {
 	background-color: #FFFFFF;
-	border-top: 2px solid #F0F0F0;
-	border-bottom: 2px solid #F0F0F0;
+	border-bottom: 1px solid #F0F0F0;
 	max-width: 90%;
 	height: 250px;
 	max-height: 100%;
@@ -96,6 +100,7 @@ body {
 	max-width: 90%;
 	padding: 0;
 	margin: 0;
+	border-bottom: 1px solid #FFFFFF;
 }
 
 .team-info:hover, .team-img:hover {

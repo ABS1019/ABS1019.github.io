@@ -3,7 +3,7 @@
 <div class="container-fluid team-width">
 	<!-- Page title and subheading -->
 	<div class="row teams-header">
-		<h1>Championship Teams<small>All Teams</small></h1>
+		<h1>Formula 1<sup>&reg;</sup> Teams</h1>
 	</div>
 	
 	<!-- Row for Mercedes -->
