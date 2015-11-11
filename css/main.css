@@ -19,7 +19,7 @@ body {
 	background: -o-linear-gradient(left, rgba(158,158,158,1) 0%, rgba(219,219,219,1) 25%, rgba(235,235,235,1) 51%, rgba(219,219,219,1) 75%, rgba(158,158,158,1) 100%);
 	background: -ms-linear-gradient(left, rgba(158,158,158,1) 0%, rgba(219,219,219,1) 25%, rgba(235,235,235,1) 51%, rgba(219,219,219,1) 75%, rgba(158,158,158,1) 100%);
 	background: linear-gradient(to right, rgba(158,158,158,1) 0%, rgba(219,219,219,1) 25%, rgba(235,235,235,1) 51%, rgba(219,219,219,1) 75%, rgba(158,158,158,1) 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9e9e9e', endColorstr='#9e9e9e', GradientType=1 );
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9E9E9E', endColorstr='#9e9e9e', GradientType=1 );
 }
 
 .container-border {
@@ -56,7 +56,6 @@ body {
 	text-align: center;
 }
 
-
 .logo {
 	max-width: 65px;
 	margin-left: 10px;
@@ -69,14 +68,23 @@ body {
 		CSS for Team group
 *********************************/
 
+.team-width {
+	width: 90%;
+	height: 100%;
+}
+
 .team-info {
-	border: 3px solid #FFFFFF;
-	border-right: 5px solid #D31411;
+	background-color: #FFFFFF;
+	border-top: 2px solid #F0F0F0;
+	border-bottom: 2px solid #F0F0F0;
 	width: 50%;
 	height: 250px;
 }
 
 .team-img {
+	max-width: 50%;
+	height: 250px;
+	background-color: grey;
 	
 }
 
