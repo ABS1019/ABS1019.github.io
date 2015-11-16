@@ -2,11 +2,16 @@
 
 <script>
 	window.onload = function() {
-		var canvas = document.getElementById("myCanvas"),
-		c = canvas.getContext("2d");
+		var track = document.getElementById("racetrack"),
+		c = track.getContext("2d"),
+		PI_Two = Math.PI * 2;
 		
-		c.fillStyle = "black";
-		c.fillRect(0, 0, canvas.width, canvas.height);
+		c.fillStyle = "#008518";
+		c.fillRect(0, 0, track.width, track.height);
+		
+		c.strokeStyle = "#000000";
+		c.lineWidth = 10;
+		c.strokeRect(0, 0, track.width, track.height);
 	};
 </script>
 <div class="container" style="margin-top: 50px; padding: 0;">
@@ -17,7 +22,7 @@
 		<button>Button 3</button>
 		<button>Button 4</button>
 	</div>
-	<canvas id="myCanvas" width="1200" height="550"></canvas>
+	<canvas id="racetrack" width="1200" height="550"></canvas>
 	
 	<div class="live-leaderboard"></div>
 </div>
