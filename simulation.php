@@ -19,9 +19,7 @@
 	</div>
 	<canvas id="myCanvas" width="1200" height="550"></canvas>
 	
-	<div class="left"></div>
-	<div class="right"></div>
-	
+	<div class="live-leaderboard"></div>
 </div>
 
 <?php include 'site/footer.html';?>
