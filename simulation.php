@@ -24,17 +24,17 @@
 		
 	};
 </script>
-<div class="container" style="margin-top: 50px; padding: 0;">
+<div class="jumbotron" style="background:transparent !important">
 	<h1>Formula 1 Race Simulator</h1>
-	<div class="sim-buttons">
+	<div class="container sim-buttons">
 		<button>Button 1</button>
 		<button>Button 2</button>
 		<button>Button 3</button>
 		<button>Button 4</button>
 	</div>
-	<canvas id="racetrack" width="1200" height="550"></canvas>
+	<canvas id="racetrack" width="1700" height="800" class="track-size"></canvas>
 	
-	<div class="live-leaderboard"></div>
+	<div class="container live-leaderboard"></div>
 </div>
 
 <?php include 'site/footer.html';?>
