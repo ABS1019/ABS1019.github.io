@@ -5,6 +5,26 @@
 		var track = document.getElementById("racetrack"),
 		c = track.getContext("2d"),
 		PI_Two = Math.PI * 2,
+		drivers = {
+			alonso: 'images/simulation/alonso-car.png',
+			bottas: 'images/simulation/bottas-car.png',
+			button: 'images/simulation/button-car.png',
+			ericsson: 'images/simulation/ericsson-car.png',
+			hamilton: 'images/simulation/hamilton-car.png',
+			hulkenberg: 'images/simulation/hulkenberg-car.png',
+			kvyat: 'images/simulation/kvyat-car.png',
+			maldonado: 'images/simulation/maldonado-car.png',
+			massa: 'images/simulation/massa-car.png',
+			nasr: 'images/simulation/nasr-car.png',
+			perez: 'images/simulation/perez-car.png',
+			raikkonen: 'images/simulation/raikkonen-car.png',
+			ricciardo: 'images/simulation/ricciardo-car.png',
+			rosberg: 'images/simulation/rosberg-car.png',
+			rossi: 'images/simulation/rossi-car.png',
+			sainz: 'images/simulation/sainz-car.png',
+			verstappen: 'images/simulation/verstappen-car.png',
+			vettel: 'images/simulation/vettel-car.png'
+		},
 		car = new Image();
 		
 		// Green fill for racetrack canvas
@@ -22,6 +42,9 @@
 			c.drawImage(car, 50, 50);
 		};
 		
+		
+
+
 	};
 </script>
 <div class="jumbotron" style="background:transparent !important">
@@ -36,5 +59,4 @@
 	
 	<div class="container live-leaderboard"></div>
 </div>
-
 <?php include 'site/footer.html';?>
