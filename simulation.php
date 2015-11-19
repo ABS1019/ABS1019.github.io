@@ -4,14 +4,24 @@
 	window.onload = function() {
 		var track = document.getElementById("racetrack"),
 		c = track.getContext("2d"),
-		PI_Two = Math.PI * 2;
+		PI_Two = Math.PI * 2,
+		car = new Image();
 		
+		// Green fill for racetrack canvas
 		c.fillStyle = "#008518";
 		c.fillRect(0, 0, track.width, track.height);
 		
+		// Black stroke outline for racetrack
 		c.strokeStyle = "#000000";
 		c.lineWidth = 10;
 		c.strokeRect(0, 0, track.width, track.height);
+
+		car.src = "images/simulation/perez-car.png";
+
+		car.onload = function() {
+			c.drawImage(car, 50, 50);
+		};
+		
 	};
 </script>
 <div class="container" style="margin-top: 50px; padding: 0;">
