@@ -36,11 +36,53 @@
 		c.lineWidth = 10;
 		c.strokeRect(0, 0, track.width, track.height);
 
-		car.src = "images/simulation/perez-car.png";
 
-		car.onload = function() {
-			c.drawImage(car, 50, 50);
-		};
+
+      function loadDrivers(drivers, callback) {
+        var cars = {},
+        loaded_Drivers = 0,
+        all_drivers = 0;
+
+        // increment the number of participants from drivers array
+        for(var each_driver in drivers) { all_drivers++; }
+
+        for(var each_driver in drivers) {
+        	// Creates new image for each driver
+        	cars[each_driver] = new Image();
+          	cars[each_driver].onload = function() {
+          		// On load, as long as the loaded drivers is >= the all drivers array
+          		// callback eac h driver in the cars array
+          		if(++loaded_Drivers >= all_drivers) {
+          			callback(cars);
+          		}
+          	};
+          	// Sets source for each driver from the driver array to the car array  
+          	cars[each_driver].src = drivers[src];
+        }
+      }
+
+      loadDrivers(drivers, function(cars) {
+        c.drawImage(cars.alonso, 50, 50);
+        c.drawImage(cars.bottas, 50, 100);
+        c.drawImage(cars.button, 100, 50);
+        c.drawImage(cars.ericsson, 100, 100);
+        c.drawImage(cars.grosjean, 100, 150);
+        c.drawImage(cars.hamilton, 150, 100);
+        c.drawImage(cars.hulkenberg, 150, 150);
+        c.drawImage(cars.kvyat, 200, 150);
+        c.drawImage(cars.maldonado, 150, 200);
+        c.drawImage(cars.massa, 200, 200);
+        c.drawImage(cars.nasr, 250, 200);
+        c.drawImage(cars.perez, 200, 250);
+        c.drawImage(cars.raikkonen, 250, 250);
+        c.drawImage(cars.ricciardo, 300, 250);
+        c.drawImage(cars.rosberg, 250, 300);
+        c.drawImage(cars.rossi, 300, 300);
+        c.drawImage(cars.sainz, 350, 300);
+        c.drawImage(cars.stevens, 300, 350);
+        c.drawImage(cars.verstappen, 350, 350);
+        c.drawImage(cars.vettel, 400, 350);
+      });
 		
 		
 
