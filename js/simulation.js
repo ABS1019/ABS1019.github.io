@@ -132,27 +132,34 @@ window.onload = function() {
 		context.lineTo(1065,711); context.closePath();
 		context.fillStyle = "black"; context.fill();
 		
-		// White lines on finishing straight
+// White lines on racetrack
+		// Inside line
+		// 1
 		context.beginPath(); context.moveTo(275,575);
 		context.lineTo(1525,575); context.strokeStyle = "white";
 		context.stroke();
-		
-		context.beginPath(); context.moveTo(275,745);
-		context.lineTo(1525,745); context.strokeStyle = "white";
-		context.stroke();
-		
-// First turn white lines
-
-		// Top/Left line
+		// 2
 		context.beginPath(); context.moveTo(1520,575);
 		context.quadraticCurveTo(1710,575,1705,400); context.strokeStyle = "white";
 		context.stroke();
-
-		// Bottom/Right line
+		// 3
+		context.beginPath(); context.moveTo(1705,400); context.lineTo(1705,200);
+		context.arcTo(1710,185,1535,185,40);
+		context.strokeStyle = "white"; context.stroke();	
+		
+		// Outside line
+		// 1
+		context.beginPath(); context.moveTo(275,745);
+		context.lineTo(1525,745); context.strokeStyle = "white";
+		context.stroke();
+		// 2
 		context.beginPath(); context.moveTo(1520,745);
 		context.quadraticCurveTo(1880,745,1875,400); context.strokeStyle = "white";
 		context.stroke();
-		
+		// 3
+		context.beginPath(); context.moveTo(1875,400); context.lineTo(1875,200);
+		context.quadraticCurveTo(1880,15,1705,15); context.lineTo(1005,15);
+		context.strokeStyle = "white"; context.stroke();
 		 
 		//Starting grid position lines - 20th
 		context.beginPath(); context.moveTo(283,669);

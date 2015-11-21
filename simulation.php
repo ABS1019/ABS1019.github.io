@@ -7,7 +7,7 @@
 		<button>Button 3</button>
 		<button>Button 4</button>
 	</div>
-	<canvas id="racetrack" width="1898" height="800" class="track-size"></canvas>
+	<canvas id="racetrack" width="1898" height="760" class="track-size"></canvas>
 	
 	<div class="container live-leaderboard"></div>
 </div>
