@@ -97,6 +97,28 @@ window.onload = function() {
 		context.lineTo(1705,400);
 		context.quadraticCurveTo(1710,575,1520,575); 
 		context.fillStyle = "#7A7A7A"; context.fill();
+		
+		// Second bend
+		context.beginPath(); context.moveTo(1875,400);
+		context.lineTo(1875,200); context.quadraticCurveTo(1880,15,1705,15);
+		context.lineTo(1705,400); context.closePath();
+		context.fillStyle = "#7A7A7A"; context.fill();
+		
+		// Straight -> third bend
+		context.beginPath(); context.moveTo(1705,400);
+		context.arcTo(1705,200,1655,200,30); context.lineTo(1255,200);
+		context.lineTo(1255,15); context.lineTo(1705,15); context.closePath();
+		context.fillStyle = "#7A7A7A"; context.fill();
+		
+		// Fourth bend
+		
+		
+		// Fifth bend
+		
+		
+		// Curve -> long straight
+		
+		
 
 // Grid positions for each driver and gridlines on starting straight       
          
@@ -138,14 +160,21 @@ window.onload = function() {
 		context.beginPath(); context.moveTo(275,575);
 		context.lineTo(1525,575); context.strokeStyle = "white";
 		context.stroke();
-		// 2
+		// 2 - red/white curbs for first turn
 		context.beginPath(); context.moveTo(1520,575);
 		context.quadraticCurveTo(1710,575,1705,400); context.strokeStyle = "white";
 		context.stroke();
 		// 3
-		context.beginPath(); context.moveTo(1705,400); context.lineTo(1705,200);
-		context.arcTo(1710,185,1535,185,40);
+		context.beginPath(); context.moveTo(1705,400);
+		context.arcTo(1705,200,1655,200,30);
 		context.strokeStyle = "white"; context.stroke();	
+		
+		// 4
+		context.beginPath(); context.moveTo(1675,200);
+		context.arcTo(1255,200,1255,215,5); context.arcTo(1255,215,1305,215,5);
+		context.lineTo(1655,215);
+		context.strokeStyle = "white"; context.stroke();	
+		
 		
 		// Outside line
 		// 1
@@ -158,9 +187,42 @@ window.onload = function() {
 		context.stroke();
 		// 3
 		context.beginPath(); context.moveTo(1875,400); context.lineTo(1875,200);
-		context.quadraticCurveTo(1880,15,1705,15); context.lineTo(1005,15);
+		context.quadraticCurveTo(1880,15,1705,15);
 		context.strokeStyle = "white"; context.stroke();
-		 
+		
+		// 4
+		context.beginPath(); context.moveTo(1705,15);
+		context.arcTo(1005,15,1005,115,40);
+		context.strokeStyle = "white"; context.stroke();
+		
+		// 5
+		context.beginPath(); context.moveTo(1005,55);
+		context.lineTo(1005,155); context.arcTo(1005,380,1155,380,150);
+		context.strokeStyle = "white"; context.stroke();
+		
+		// 6
+		
+// Red/white curbs for racetrack
+		//First bend
+		context.setLineDash([8,4]); context.strokeStyle = "red";
+		context.beginPath(); context.moveTo(1520,575);
+		context.quadraticCurveTo(1710,575,1705,400);
+		context.stroke();
+		context.closePath();
+		
+		//Second bend
+		context.beginPath(); context.moveTo(1705,250);
+		context.arcTo(1705,200,1655,200,30);
+		context.stroke(); context.closePath();
+		
+		// Sharp third bend
+		context.beginPath(); context.moveTo(1345,200);
+		context.arcTo(1255,200,1255,215,5); context.arcTo(1255,215,1305,215,5);
+		context.lineTo(1345,215); context.stroke();
+		
+		// Fourth turn, both sides
+		
+		
 		//Starting grid position lines - 20th
 		context.beginPath(); context.moveTo(283,669);
 		context.lineTo(295,669); context.lineTo(295,699);
