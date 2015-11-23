@@ -11,5 +11,5 @@
 	
 	<div class="container live-leaderboard"></div>
 </div>
-<script src="js/simulation.js"></script>
+<script src="js/racetrack.js"></script>
 <?php include 'site/footer.html';?>
